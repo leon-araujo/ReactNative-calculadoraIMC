@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "calculadoraIMC",
+    "name": "Calculadora de IMC",
     "slug": "calculadoraIMC",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,10 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      },
+      "package": "com.leon.araujo.calculadoraimc"
     }
   }
 }
