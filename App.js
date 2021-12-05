@@ -25,7 +25,7 @@ export default function app() {
         } else if (imc > 31.1 ) {
           alert('Você está obeso - IMC = ' + imc.toFixed(2));
         }
-      } else if (sexo == 'Feminino') {
+      } else if (sexo == 'Feminino') { // faz o calculo do IMC Feminino
         if (imc < 19.1) {
           alert('Você esta abaixo do peso - IMC = ' + imc.toFixed(2));
         } else if (imc >= 19.1 && imc < 25.9) {
